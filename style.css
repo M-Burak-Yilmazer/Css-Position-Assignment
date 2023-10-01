@@ -47,6 +47,11 @@ body {
   margin-right: 10px;
   text-decoration: none;
   width: 6rem;
+  font-weight: 700;
+}
+.nav__links--a:hover{
+    opacity:0.5;
+    color:red;
 }
 
 .projects img {
@@ -54,6 +59,9 @@ body {
   height: 40vh;
   border-radius: 10px;
   margin: 0.8rem;
+}
+.projects img:hover{
+    opacity:.5rem;
 }
 .projects div:first-child,
 footer div {
