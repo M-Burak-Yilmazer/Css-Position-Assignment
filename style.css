@@ -102,9 +102,9 @@ footer h2 {
   outline: none;
 }
 .sign-form input:focus,
-.sign-form textarea:focus{
-    border:2px solid rgb(188, 66, 32);
-    color:white;
+.sign-form textarea:focus {
+  border: 2px solid rgb(188, 66, 32);
+  color: white;
 }
 
 .bottom-nav a {
@@ -145,7 +145,7 @@ footer h2 {
   border-radius: 5px;
   position: fixed;
   bottom: 0.5rem;
-  right: .5rem;
+  right: 0.5rem;
   border-radius: 5px;
 }
 #bottom-button a {
